@@ -19,6 +19,8 @@ C to change size(speed and jump and weight which depends on size.)
 
 you have to touch red wall in order to go to the next stage.
 
+link to play on brower = https://lengendar.itch.io/natural-selection?secret=19TImmIfTqaeqnYlA8JGfqBy6w  
+
 
 
 
