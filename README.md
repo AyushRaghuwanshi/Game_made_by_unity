@@ -14,7 +14,7 @@ Rules = there is trad off weight and speed .like in the starting of the game you
 what favourablr trait you should choose in order to complete the level.
 
 Controls = A,S,D,W for movement.
-space for jump.
+space for jump.<br>
 C to change size(speed and jump and weight which depends on size.)
 
 you have to touch red wall in order to go to the next stage.
