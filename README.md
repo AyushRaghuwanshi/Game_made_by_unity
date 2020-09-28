@@ -1,4 +1,4 @@
-# Game_made_by_unity
+# Game_made_in_unity
 
 unity hackthon project 
 
